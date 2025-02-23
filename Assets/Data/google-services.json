@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "585103873585",
+    "firebase_url": "https://vr-warehouse-sim-default-rtdb.firebaseio.com",
+    "project_id": "vr-warehouse-sim",
+    "storage_bucket": "vr-warehouse-sim.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585103873585:android:bec2a486a9307c87412710",
+        "android_client_info": {
+          "package_name": "com.VRWarehouseSim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVAbmdmXof4WA2_wG4fsT93ouzsZKFtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
