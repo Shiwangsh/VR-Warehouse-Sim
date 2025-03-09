@@ -8,3 +8,5 @@
 
 #Ignore Firebase SDK
 Assets/Firebase/
+
+.vsconfig
