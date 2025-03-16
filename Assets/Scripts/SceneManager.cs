@@ -8,8 +8,10 @@ public class SceneManager : MonoBehaviour
     [SerializeField] private float boxSpawnRate;
     [SerializeField] private float boxSpawnRateVariation;
     [SerializeField] private BoxType[] boxTypes;
-
     private Timer boxTimer;
+
+    [Header("Robot Settings")]
+    [SerializeField] private Robot robot;
 
     void Start()
     {
@@ -22,6 +24,8 @@ public class SceneManager : MonoBehaviour
             boxTimer = gameObject.AddComponent<Timer>();
             boxTimer.Reset(boxSpawnRate);
         }
+
+        robot.Init(transform);
     }
 
     void Update()

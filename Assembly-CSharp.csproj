@@ -63,9 +63,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\SceneManager.cs" />
     <Compile Include="Assets\Scripts\Timer.cs" />
+    <Compile Include="Assets\Scripts\Robot.cs" />
     <Compile Include="Assets\Scripts\BoxType.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\NonVRPlayerController.cs" />
+    <Compile Include="Assets\Scripts\SortingBox.cs" />
     <Compile Include="Assets\Scripts\Box.cs" />
   </ItemGroup>
   <ItemGroup>

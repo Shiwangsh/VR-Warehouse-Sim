@@ -19,6 +19,24 @@ public class Box : MonoBehaviour
         }
     }
 
+    public void DisableRB()
+    {
+        rb.angularVelocity = Vector3.zero;
+        rb.linearVelocity = Vector3.zero;
+        rb.detectCollisions = false;
+        rb.isKinematic = true;
+        rb.Sleep();
+    }
+
+    public void EnableRB()
+    {
+        rb.detectCollisions = true;
+        rb.isKinematic = false;
+        rb.WakeUp();
+
+        transform.parent = null;
+    }
+
     private void OnTriggerStay(Collider other)
     {
         if (other.gameObject.layer == 6)
@@ -32,10 +50,18 @@ public class Box : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        // Destroy when arrives at end of conveyor belt
         if (other.gameObject.layer == 7)
         {
             Debug.Log("Box Destroyed");
             Destroy(this.gameObject);
+        }
+        // Attach to robot arm on contact with grab point
+        else if (other.gameObject.layer == 10)
+        {
+            DisableRB();
+
+            transform.parent = other.gameObject.transform;
         }
     }
 }
