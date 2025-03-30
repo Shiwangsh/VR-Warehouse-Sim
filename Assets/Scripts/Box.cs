@@ -4,6 +4,7 @@ using UnityEngine.UI;
 public class Box : MonoBehaviour
 {
     [SerializeField] public BoxType type;
+    [SerializeField] private BoxSize size;
     [SerializeField] private Image[] stamps;
 
     [SerializeField] private Rigidbody rb;
@@ -17,6 +18,11 @@ public class Box : MonoBehaviour
             stamp.sprite = type.stamp;
             stamp.color = type.color;
         }
+    }
+
+    void Update()
+    {
+        
     }
 
     public void DisableRB()
@@ -50,10 +56,28 @@ public class Box : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        // Destroy when arrives at end of conveyor belt
+        // When arrives at end of conveyor belt
         if (other.gameObject.layer == 7)
         {
-            Debug.Log("Box Destroyed");
+            SimulationMetrics.BoxNotSorted(type.type, size);
+            Destroy(this.gameObject);
+        }
+        // When placed into a sorting box
+        else if (other.gameObject.layer == 9)
+        {
+            SortingBox sortingBox;
+            if (other.gameObject.TryGetComponent<SortingBox>(out sortingBox))
+            {
+                if (sortingBox.GetBoxType() == type.type)
+                {
+                    SimulationMetrics.BoxCorrectlySorted(sortingBox.forRobot, type.type, size);
+                }
+                else
+                {
+                    SimulationMetrics.BoxIncorrectlySorted(sortingBox.forRobot, type.type, sortingBox.boxType, size);
+                }
+            }
+
             Destroy(this.gameObject);
         }
         // Attach to robot arm on contact with grab point

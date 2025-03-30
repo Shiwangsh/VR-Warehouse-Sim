@@ -118,7 +118,6 @@ public class Robot : MonoBehaviour
                 if (grabbedBox.type.type == sortingBox.GetBoxType())
                 {
                     goalSortingBox = sortingBox;
-                    Debug.Log($"Identified box type as {grabbedBox.type.type}");
                     break;
                 }
             }

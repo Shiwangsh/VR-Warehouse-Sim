@@ -3,8 +3,8 @@ using UnityEngine;
 [System.Serializable]
 public class SortingBox : MonoBehaviour
 {
-    [SerializeField] private BoxType.Type boxType;
-    [SerializeField] private bool forRobot = false;
+    [SerializeField] public BoxType.Type boxType;
+    [SerializeField] public bool forRobot = false;
 
     void Start()
     {

@@ -409,6 +409,7 @@ MonoBehaviour:
     type: 0
     color: {r: 0, g: 0, b: 0, a: 0}
     stamp: {fileID: 0}
+  size: 1
   stamps:
   - {fileID: 7048759249347223682}
   - {fileID: 6531944265792327757}
