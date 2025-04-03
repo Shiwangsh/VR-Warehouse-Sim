@@ -16,3 +16,11 @@ public class BoxType
         YELLOW
     }
 }
+
+[Serializable]
+public enum BoxSize
+{
+    LARGE,
+    LONG,
+    SMALL
+}
