@@ -5,7 +5,7 @@ using UnityEngine.Rendering;
 public class LengthScroll : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    Vector3 myVector=new Vector3(0,0,0.001f);
+    Vector3 myVector=new Vector3(0,0,1f);
     void Start()
     {
         
@@ -19,12 +19,12 @@ public class LengthScroll : MonoBehaviour
     void OnTriggerEnter(Collider collision)
     {
         Debug.Log(myVector.x);
-        if(myVector.x>0){
-            myVector=new Vector3(0,0,-0.001f);
+        if(myVector.z>0){
+            myVector=new Vector3(0,0,-1f);
             Debug.Log(myVector.x);
         }
-         else if(myVector.x<0){
-            myVector=new Vector3(0,0,0.001f);
+         else if(myVector.z<0){
+            myVector=new Vector3(0,0,1f);
             Debug.Log(myVector.x);
         }
     }

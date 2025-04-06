@@ -5,7 +5,7 @@ using UnityEngine.Rendering;
 public class SideScroll : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    Vector3 myVector=new Vector3(0.001f,0,0);
+    Vector3 myVector=new Vector3(1f,0,0);
     void Start()
     {
         
@@ -20,11 +20,11 @@ public class SideScroll : MonoBehaviour
     {
         Debug.Log(myVector.x);
         if(myVector.x>0){
-            myVector=new Vector3(-0.001f,0,0);
+            myVector=new Vector3(-1f,0,0);
             Debug.Log(myVector.x);
         }
          else if(myVector.x<0){
-            myVector=new Vector3(0.001f,0,0);
+            myVector=new Vector3(1f,0,0);
             Debug.Log(myVector.x);
         }
     }

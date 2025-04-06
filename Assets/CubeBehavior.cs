@@ -9,8 +9,6 @@ public class CubeController : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     private SideScroll SideScrollScript;
     private LengthScroll lengthScrollScript;
-    int lengthSetting=SceneMng.setting1;
-    int verticalSetting=SceneMng.setting2;
     void Start()
     {
         SideScrollScript=GetComponent<SideScroll>();
@@ -26,11 +24,14 @@ public class CubeController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (lengthSetting==1){
+        if (SceneMng.setting1==1){
+            lengthScrollScript.enabled=false;
             SideScrollScript.enabled=true;
+            
         }
-        else if (verticalSetting==1){
+        else if (SceneMng.setting2==1){
             lengthScrollScript.enabled=true;
+            SideScrollScript.enabled=false;
         }
     }
 }
