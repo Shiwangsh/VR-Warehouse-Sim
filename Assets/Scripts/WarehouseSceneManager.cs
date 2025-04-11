@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class SceneManager : MonoBehaviour
+public class WarehouseSceneManager : MonoBehaviour
 {
     [Header("Box Settings")]
     [SerializeField] private GameObject[] boxPrefabs;

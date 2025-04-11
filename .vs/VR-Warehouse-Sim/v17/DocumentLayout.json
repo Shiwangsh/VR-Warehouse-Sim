@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\RobotBehaviorLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Firebase\\RobotBehaviorLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Database\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\ObjecInteractions.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Firebase\\ObjecInteractions.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\Object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Database\\Object.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Firebase\\DatabaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\RobotBehaviorLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Database\\RobotBehaviorLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\FirebaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Firebase\\FirebaseManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assembly-CSharp-Editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assembly-CSharp-Editor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Database\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,62 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\DatabaseManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Firebase\\DatabaseManager.cs",
-              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\DatabaseManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Firebase\\DatabaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:20:56.653Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ObjecInteractions.cs",
-              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\ObjecInteractions.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Firebase\\ObjecInteractions.cs",
-              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\ObjecInteractions.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Firebase\\ObjecInteractions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:10:49.906Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RobotBehaviorLog.cs",
-              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\RobotBehaviorLog.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Firebase\\RobotBehaviorLog.cs",
-              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\RobotBehaviorLog.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Firebase\\RobotBehaviorLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Database\\DatabaseManager.cs",
+              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\DatabaseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Database\\DatabaseManager.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T18:09:05.278Z",
+              "WhenOpened": "2025-04-10T17:24:42.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FirebaseManager.cs",
-              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\FirebaseManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Firebase\\FirebaseManager.cs",
-              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Firebase\\FirebaseManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Firebase\\FirebaseManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-10T17:21:24.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Assembly-CSharp-Editor.csproj",
+              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assembly-CSharp-Editor.csproj",
+              "RelativeDocumentMoniker": "Assembly-CSharp-Editor.csproj",
+              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assembly-CSharp-Editor.csproj",
+              "RelativeToolTip": "Assembly-CSharp-Editor.csproj",
+              "ViewState": "AgIAAHEFAAAAAAAAAAAswLYFAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-10T17:14:35.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\User.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Database\\User.cs",
+              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\User.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Database\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-01T17:13:31.806Z"
+              "WhenOpened": "2025-04-10T17:13:34.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RobotBehaviorLog.cs",
+              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\RobotBehaviorLog.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Database\\RobotBehaviorLog.cs",
+              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\RobotBehaviorLog.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Database\\RobotBehaviorLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:13:32.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object.cs",
+              "DocumentMoniker": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\Object.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Database\\Object.cs",
+              "ToolTip": "D:\\Wright State\\CS7140- Adv. Software engineering\\VR-Warehouse-Sim\\Assets\\Scripts\\Database\\Object.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Database\\Object.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T17:13:29.65Z",
+              "EditorCaption": ""
             }
           ]
         }

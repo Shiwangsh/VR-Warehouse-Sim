@@ -110,7 +110,7 @@ public class DatabaseManager : MonoBehaviour
     {
         string json = JsonUtility.ToJson(user);
         //Debug.Log("User Data JSON: " + json);
-        dbRef.Child("users").Child(user.userId).SetRawJsonValueAsync(json).ContinueWith(task =>
+        dbRef.Child("users").Child(user.UserId).SetRawJsonValueAsync(json).ContinueWith(task =>
         {
             if (task.IsCompleted)
             {
@@ -135,7 +135,7 @@ public class DatabaseManager : MonoBehaviour
                 {
                     string json = snapshot.GetRawJsonValue();
                     User user = JsonUtility.FromJson<User>(json);
-                    Debug.Log("User Data: " + user.name + ", " + user.email);
+                    Debug.Log("User Data: " + user.Name + ", " + user.Email);
                 }
                 else
                 {
