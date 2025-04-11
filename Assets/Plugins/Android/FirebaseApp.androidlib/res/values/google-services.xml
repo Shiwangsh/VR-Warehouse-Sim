@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id">
+  <string name="firebase_database_url" translatable="false">https://vr-warehouse-sim-default-rtdb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">585103873585</string>
+  <string name="google_storage_bucket" translatable="false">vr-warehouse-sim.firebasestorage.app</string>
+  <string name="project_id" translatable="false">vr-warehouse-sim</string>
+  <string name="google_api_key" translatable="false">AIzaSyDcVAbmdmXof4WA2_wG4fsT93ouzsZKFtA</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDcVAbmdmXof4WA2_wG4fsT93ouzsZKFtA</string>
+  <string name="google_app_id" translatable="false">1:585103873585:android:bec2a486a9307c87412710</string>
+</resources>

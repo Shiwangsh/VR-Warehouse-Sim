@@ -1,3 +1,4 @@
+# Unity folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,3 +6,58 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]serSettings/
+[Mm]emoryCaptures/
+[Oo]bj/
+Assets/Plugins/Editor/JetBrains*
+Assets/StreamingAssets/aa.meta
+
+# Cache & build data
+sysinfo.txt
+*.apk
+*.aab
+
+# Rider / VS / VS Code
+.vscode/
+.vs/
+.idea/
+*.sln
+*.user
+*.userprefs
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.pidb
+*.booproj
+*.tmproj
+*.svd
+
+# Unity auto-generated meta and debug files
+*.db
+*.opendb
+*.suo
+
+# Crash and error logs
+sysinfo.txt
+*.stacktrace
+*.log
+
+# Unity Cloud Build
+.cloudbuild/
+
+# Ignore Firebase SDK (if you don't want to track any part of it)
+Assets/Firebase/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Git merge conflict leftovers
+*.orig
+*.rej
+
+# Custom local tools, environment, or staging files
+local.settings.json
+.env
+*.secret.json
